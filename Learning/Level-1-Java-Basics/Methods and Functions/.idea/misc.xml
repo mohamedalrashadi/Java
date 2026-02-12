@@ -3,7 +3,7 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="a9e9d190-0231-4ed3-b75e-7891fa2a5f2d" />
   </component>
-  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
